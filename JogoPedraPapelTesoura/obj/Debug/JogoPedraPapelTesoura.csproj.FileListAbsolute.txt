@@ -1,0 +1,10 @@
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\JogoPedraPapelTesoura.exe.config
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\JogoPedraPapelTesoura.exe
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\bin\Debug\JogoPedraPapelTesoura.pdb
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\JogoPedraPapelTesoura.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\JogoPedraPapelTesoura.Form1.resources
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\JogoPedraPapelTesoura.Properties.Resources.resources
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\JogoPedraPapelTesoura.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\JogoPedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\JogoPedraPapelTesoura.exe
+C:\Users\Marcos\Desktop\ETEC\Exercicios\JogoPedraPapelTesoura\JogoPedraPapelTesoura\obj\Debug\JogoPedraPapelTesoura.pdb
